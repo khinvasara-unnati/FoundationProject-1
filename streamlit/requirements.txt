@@ -14,3 +14,4 @@ vaderSentiment
 statsmodels
 yfinance
 keras
+tensorflow
