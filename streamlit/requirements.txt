@@ -1,0 +1,15 @@
+streamlit
+seaborn
+pandas
+numpy
+matplotlib
+nltk
+statsmodels
+sklearn
+xgboost
+plotly
+pillow
+sklearn
+vaderSentiment
+statsmodels
+yfinance
