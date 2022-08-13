@@ -13,3 +13,4 @@ sklearn
 vaderSentiment
 statsmodels
 yfinance
+keras
