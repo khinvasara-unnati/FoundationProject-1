@@ -12,4 +12,4 @@
  - __scrape_vader_code__ : has notebooks which has been used to get the above data
  - __regression_code__ : has linear regression modelling & classification(using KNN & Logistic) modelling
  - __lstm_code__ : has code for prediction using Long Short Term Memory(LSTM)
- - __stramlit__ : has the application deployed on streamlit server
+ - __streamlit__ : has the application deployed on streamlit server. [Application](https://gitsim02-foundationproject-1-streamlitapp-v8wjhy.streamlitapp.com/)
