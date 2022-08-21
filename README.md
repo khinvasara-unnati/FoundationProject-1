@@ -8,6 +8,7 @@
 
 
 ### Content-Structure
+ - __report__ : has final assignment submission (pdf) & reviewed presentation (ppt)  
  - __data__ : has data scraped from news for Reliance for last 5+ years; It also contains sentiment score for news & Reliance price data of last 5+ years
  - __scrape_vader_code__ : has notebooks which has been used to get the above data
  - __regression_code__ : has linear regression modelling & classification(using KNN & Logistic) modelling
